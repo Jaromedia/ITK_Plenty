@@ -6,7 +6,7 @@ Sobald Sie die Rechtstexteübertragung vollständig im Mandantenportal der IT-Re
 ## Nutzungsvoraussetzungen
  
 Zur Nutzung dieses Dienstes wird ein kostenpflichtiges Rechtstexte-Produkt der IT-Recht Kanzlei München benötigt.
-Informationen zu den Sicherheits-Paketen der IT-Recht Kanzlei finden Sie hier:
+Informationen zu den Sicherheits-Paketen der IT-Recht Kanzlei finden Sie hier: 
 https://www.it-recht-kanzlei.de/Service/agb-plentymarkets.php
  
 ## Konfiguration
