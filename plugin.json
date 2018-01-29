@@ -5,7 +5,7 @@
       "type":"tool",
       "version":"1.0.0",
       "license":"free",
-      "isClosedSource":true,
+      "isClosedSource"    : true,
       "pluginIcon"        : "icon_plugin_xs.png",
       "price"             : 0.00,
       "description"       : "Übertragen und aktualisieren Sie automatisiert Ihre Rechtstexte in Ihrem Plenty-Shop.",
