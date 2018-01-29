@@ -6,7 +6,8 @@ This service is available in German only.
  
 ## Getting started and requirements
  
-In order for this legal text interface to work, you need one of the paid legal products offered on https://www.it-recht-kanzlei.de (in German).
+In order for this legal text interface to work, you need one of the paid legal products from IT-Recht Kanzlei offered on 
+https://www.it-recht-kanzlei.de/Service/agb-plentymarkets.php (German).
  
 ## Configuration
  
