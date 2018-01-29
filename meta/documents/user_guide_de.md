@@ -1,11 +1,11 @@
 # Nutzeranleitung für den IT-Recht Kanzlei AGB-Connector
  
-Übertragen und aktualisieren Sie automatisiert Rechtstexte in Ihrem Plenty-Shop.
+Übertragen und aktualisieren Sie automatisiert Rechtstexte in Ihrem Plenty-Shop.<br />
 Sobald Sie die Rechtstexteübertragung vollständig im Mandantenportal der IT-Recht Kanzlei eingerichtet haben, wird die Aktualität Ihrer Rechtstexte mehrfach täglich in Ihrem Shop geprüft und wo erforderlich eine Neuübertragung durchgeführt.
  
 ## Nutzungsvoraussetzungen
  
-Zur Nutzung dieses Dienstes wird ein kostenpflichtiges Rechtstexte-Produkt der IT-Recht Kanzlei München benötigt.
+Zur Nutzung dieses Dienstes wird ein kostenpflichtiges Rechtstexte-Produkt der IT-Recht Kanzlei München benötigt.<br />
 Informationen zu den Sicherheits-Paketen der IT-Recht Kanzlei finden Sie unter <br />
 https://www.it-recht-kanzlei.de/Service/agb-plentymarkets.php
  
