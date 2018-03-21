@@ -10,7 +10,7 @@
       "price"             : 0.00,
       "description"       : "Die IT-Recht Kanzlei bietet Händlern, die über einen eigenen plentymarkets-Shop Waren vertreiben, passende abmahnsichere Rechtstexte an. Integrieren Sie die Rechtstexte über die AGB-Schnittstelle einfach per Mausklick in Ihren plentymarkets-Shop. Unsere Automatik sorgt dann bei jeder rechtlichen Änderung für ein zeitnahes Update der Texte, ohne dass Sie tätig werden müssen. Zudem kontrollieren wir Ihre Rechtstexte mehrfach täglich auf Fehlerfreiheit. Egal ob Übertragungsprobleme, beschädigte Seiten oder Serverausfall – falls wir bei den Rechtstexten einen Fehler registrieren, informieren wir Sie umgehend.",
       "shortDescription"  : {"de":"Übertragen und aktualisieren Sie automatisiert Rechtstexte der IT-Recht Kanzlei in Ihrem Plenty-Shop.","en":"Transfert legal texts from IT-Recht Kanzlei to your Plenty shop and keep them up-to-date automatically."},
-      "categories"        : ["3600"],
+      "categories"        : ["3521"],
       "keywords"          : ["Rechtstexte", "IT-Recht Kanzlei", "agb", "datenschutz", "widerruf", "impressum", "Recht", "legal"],
       "author"            : "Jaromedia",
       "authorIcon"        : "icon_author_xs.png",
@@ -24,5 +24,5 @@
       "dependencies"      : [],
       "runOnBuild"        : [],
       "isExternalTool":true,
-      "forwardLink":"https://www.it-recht-kanzlei.de/Portal/login.php"
+      "forwardLink":"https://www.it-recht-kanzlei.de/agb-starterpaket.php"
 }
