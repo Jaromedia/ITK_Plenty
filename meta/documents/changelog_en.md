@@ -4,3 +4,8 @@
  
 ### Added
 - initial release
+
+## v1.0.1 (2019-02-19)
+ 
+### Changed
+- updated German plugin description
