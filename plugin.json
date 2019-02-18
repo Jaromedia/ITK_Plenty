@@ -1,7 +1,7 @@
 {
       "name":"ItRechtKanzlei",
       "namespace":"HelloWorld",
-      "type":"general",
+      "type":"tool",
       "version":"1.0.1",
       "isClosedSource"    : true,
       "pluginIcon"        : "icon_plugin_xs.png",
