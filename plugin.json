@@ -1,17 +1,11 @@
 {
       "name":"ItRechtKanzlei",
-      "marketplaceName": {"de":"IT-Recht Kanzlei AGB-Connector","en":"IT-Recht Kanzlei legal text service plugin"},
       "namespace":"HelloWorld",
-      "type":"tool",
+      "type":"general",
       "version":"1.0.1",
-      "license":"free",
       "isClosedSource"    : true,
       "pluginIcon"        : "icon_plugin_xs.png",
-      "price"             : 0.00,
       "description"       : "Die IT-Recht Kanzlei bietet Händlern, die über einen eigenen plentymarkets-Shop Waren vertreiben, passende abmahnsichere Rechtstexte an. Integrieren Sie die Rechtstexte über die AGB-Schnittstelle einfach per Mausklick in Ihren plentymarkets-Shop. Unsere Automatik sorgt dann bei jeder rechtlichen Änderung für ein zeitnahes Update der Texte, ohne dass Sie tätig werden müssen. Zudem kontrollieren wir Ihre Rechtstexte mehrfach täglich auf Fehlerfreiheit. Egal ob Übertragungsprobleme, beschädigte Seiten oder Serverausfall – falls wir bei den Rechtstexten einen Fehler registrieren, informieren wir Sie umgehend.",
-      "shortDescription"  : {"de":"Übertragen und aktualisieren Sie automatisiert Rechtstexte der IT-Recht Kanzlei in Ihren Plenty-Shop","en":"Transfert legal texts from IT-Recht Kanzlei to your Plenty shop and keep them up-to-date automatically."},
-      "categories"        : ["3521"],
-      "keywords"          : ["Rechtstexte", "abmahnsichere Rechtstexte", "IT-Recht Kanzlei", "agb", "datenschutzerklärung", "widerrufsbelehrung", "impressum", "legal", "Update-Service"],
       "author"            : "Jaromedia",
       "authorIcon"        : "icon_author_xs.png",
       "email"             : "info@it-recht-kanzlei.de",
@@ -24,5 +18,5 @@
       "dependencies"      : [],
       "runOnBuild"        : [],
       "isExternalTool":true,
-      "forwardLink":"https://www.it-recht-kanzlei.de/agb-starterpaket.php"
+      "forwardLink":"https://www.it-recht-kanzlei.de/Service/agb-plentymarkets.php"
 }

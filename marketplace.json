@@ -1,0 +1,8 @@
+{
+      "marketplaceName": {"de":"IT-Recht Kanzlei AGB-Connector","en":"IT-Recht Kanzlei legal text service plugin"},
+      "license":"free",
+      "price"             : 0.00,
+      "shortDescription"  : {"de":"Übertragen und aktualisieren Sie automatisiert Rechtstexte der IT-Recht Kanzlei in Ihren Plenty-Shop","en":"Transfert legal texts from IT-Recht Kanzlei to your Plenty shop and keep them up-to-date automatically."},
+      "categories"        : ["3521"],
+      "keywords"          : ["Rechtstexte", "abmahnsichere Rechtstexte", "IT-Recht Kanzlei", "agb", "datenschutzerklärung", "widerrufsbelehrung", "impressum", "legal", "Update-Service"],
+  }
