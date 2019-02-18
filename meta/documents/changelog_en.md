@@ -9,3 +9,4 @@
  
 ### Changed
 - updated German plugin description
+- updated marketplace- and plugin data

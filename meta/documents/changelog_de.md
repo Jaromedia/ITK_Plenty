@@ -9,3 +9,4 @@
  
 ### Changed
 - Anpassung der deutschen Plugin-Beschreibung
+- marketplace- und Plugindaten angepasst
